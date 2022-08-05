@@ -34004,5 +34004,12 @@
         "country_id": 247,
         "country_code": "ZW",
         "state_code": "MI"
+    },
+    {
+        "id": 5000,
+        "name": "Rivers State",
+        "country_id": 161,
+        "country_code": "NG",
+        "state_code": "RI"
     }
 ]
